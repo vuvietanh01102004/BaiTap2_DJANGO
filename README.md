@@ -349,6 +349,14 @@ class ThanhToanAdmin(admin.ModelAdmin):
 <img width="1919" height="323" alt="image" src="https://github.com/user-attachments/assets/fc6ae6e8-91f4-49e4-9f0f-f0fe1954842c" />
 
 ### - Chạy lệnh `wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb`
+<img width="1919" height="461" alt="image" src="https://github.com/user-attachments/assets/4a96539f-81e2-434a-aff9-3841ac837898" />
+
+### - Chạy lệnh `cloudflared tunnel --url http://localhost:8000`
+<img width="1919" height="389" alt="image" src="https://github.com/user-attachments/assets/9f0be598-afb2-4e16-b6f4-ce1189542911" />
+
+### - Truy cập vào trình duyệt `https://fees-cleaners-tucson-derived.trycloudflare.com`
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/1159028b-d2b7-4a45-95ec-bfd22e5c8be8" />
+
 
 
 
